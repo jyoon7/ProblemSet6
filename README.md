@@ -28,4 +28,4 @@ Compile with gcc, run with .\
 gcc
 
 ## Problems
-Cannot do 6.4 
+Could not complete ProblemSet6.4, as running the program leads to a segmentation fault (max array size too big?)
